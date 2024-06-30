@@ -8,7 +8,7 @@ function header() {
                 <span>Developed with by shyambhavi raj</span>
             </FooterLeft>
             <FooterRight>
-                <a target="_blank" rel="noreferrer" href="https://github.com/wweverma1/tfs-frontend"><img src="/images/github-icon.png" alt="Github Icon" /></a>
+                <a target="_blank" rel="noreferrer" href="https://github.com/Shy07Raj/ticket-movie"><img src="/images/github-icon.png" alt="Github Icon" /></a>
                 
             </FooterRight>
         </Nav>
