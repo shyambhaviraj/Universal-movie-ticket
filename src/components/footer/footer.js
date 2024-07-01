@@ -8,7 +8,7 @@ function header() {
                 <span>Developed with by shyambhavi raj</span>
             </FooterLeft>
             <FooterRight>
-                <a target="_blank" rel="noreferrer" href="https://github.com/Shy07Raj/ticket-movie"><img src="/images/github-icon.png" alt="Github Icon" /></a>
+                <a target="_blank" rel="noreferrer" href="https://github.com/shyambhaviraj/Universal-movie-ticket"><img src="/images/github-icon.png" alt="Github Icon" /></a>
                 
             </FooterRight>
         </Nav>
